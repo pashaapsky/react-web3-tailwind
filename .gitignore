@@ -1,7 +1,3 @@
-node_modules
-.DS_Store
-dist
-dist-ssr
-*.local
 .idea
-smart_contract
+/client/node_modules
+/smart_contract/node_modules
